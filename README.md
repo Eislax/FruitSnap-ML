@@ -12,8 +12,7 @@ To run the code in this repository, the following dependencies are required (bet
 1. TensorFlow: A machine learning framework for building and training models.
 2. Matplotlib: A plotting library for visualizing data.
 3. NumPy: A library for numerical computations.
-4. Pillow: A library for image processing.
-5. Kaggle API: A library to download datasets from Kaggle.
+4. Kaggle API: A library to download datasets from Kaggle.
 
 ## Model Architecture
 
